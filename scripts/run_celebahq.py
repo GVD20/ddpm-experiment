@@ -7,6 +7,7 @@ python3 scripts/run_celebahq.py evaluation --bucket_name_prefix $BUCKET_PREFIX -
 
 import functools
 
+# 1
 import fire
 import numpy as np
 import tensorflow.compat.v1 as tf
